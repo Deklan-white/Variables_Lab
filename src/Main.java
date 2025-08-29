@@ -35,6 +35,10 @@ public class Main {
                 System.out.println("*\t\t\t\t\t\t\t\t\t\t*");
                 System.out.println("*\t\t\tother integer types\t\t\t*");
                 System.out.println("*\t\t\t\t\t\t\t\t\t\t*");
+                System.out.println("*\t\t16 bit - charOne = "+charOne+"\t\t*");
+                System.out.println("*\t\t\t\t\t\t\t\t\t\t*");
+                System.out.println("*\t\t\tother types\t\t\t\t\t*");
+                System.out.println("*\t\t\t\t\t\t\t\t\t\t*");
                 System.out.println("*\t\tbooleanOne = "+booleanOne+"\t\t\t\t*");
                 System.out.println("*\t\tstringOne = "+stringOne+"\t\t*");
                 System.out.println("*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*");
